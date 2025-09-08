@@ -36,11 +36,13 @@ The game is played on a hexagonal grid where two players compete to occupy as ma
 
 <img width="801" height="627" alt="image" src="https://github.com/user-attachments/assets/63ce52e9-91eb-415b-afc8-9cd21080fe80" />
 
+
 **In game footage**
 
 <img width="798" height="628" alt="image" src="https://github.com/user-attachments/assets/a281d3ec-568d-4e41-8ccb-15ad54b4206c" />
 <img width="799" height="629" alt="image" src="https://github.com/user-attachments/assets/38d61eca-5f17-4e0e-aa62-4c26495741b9" />
 <img width="800" height="629" alt="image" src="https://github.com/user-attachments/assets/3106139a-31a4-4b7d-ae74-041801d6d32d" />
+
 
 **Best games**
 
